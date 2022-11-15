@@ -1,0 +1,105 @@
+* {
+    box-sizing: border-box;
+    font-family: Inter, sans-serif; 
+}
+
+body {
+    background-color: #23252C;
+}
+
+.app--card {
+    background-color: #1A1B21;
+    width: 50%;
+    margin: 0 auto;
+    border-radius: 0px 0px 10px 10px;
+}
+
+/* Profile Section*/
+
+.profile--img {
+    width: 100%;
+}
+
+.profile--text {
+    text-align: center;
+}
+
+.profile--text > h1 {
+    color: #FFFFFF;
+    font-size: 25px;
+    font-weight: 700px;
+    margin-bottom: 0px;
+}
+.profile--text > h3 {
+    color: #F3BF99;
+    font-size: 12.8px;
+    font-weight: 400;
+}
+
+.profile--text > a {
+    color: #F5F5F5;
+    text-decoration: none;
+    font-size: 10.24px;
+    font-weight: 400;    
+}
+
+/* Buttons Section */
+
+.buttons {
+    margin-top: 15px;
+    display: flex;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.buttons--email {
+    background-color: #FFFFFF;
+    width: 40%;
+    height: 40px;
+    border-radius: 6px;
+    margin: 0 auto;
+    color: black;
+}
+
+.buttons--linkedin {
+    background-color: #5093E2;
+    width: 40%;
+    height: 40px;
+    border-radius: 6px;
+    margin: 0 auto;
+    color: white;
+}
+
+/* Description Section */
+
+.description {
+    margin: 30px auto;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.description > h1 {
+    font-size: 16px;
+    font-weight: 700;
+    color: #F5F5F5;
+}
+
+.description > p {
+    font-size: 10.24px;
+    font-weight: 400;
+    color: #DCDCDC;
+}
+
+/* Socials Sections */
+
+footer {
+    color: #918E9B;
+    background-color: #161619;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+footer > h1 {
+    font-size: 20px;
+    text-align: center;
+}
