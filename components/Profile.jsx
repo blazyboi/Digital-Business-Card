@@ -1,9 +1,10 @@
 import React from 'react';
+import pfp from "../images/pfp.png"
 
 export default function Profile() {
     return (
         <div className="profile">
-            <img src="../images/pfp.png" className="profile--img"></img>
+            <img src={pfp} className="profile--img"></img>
             <div className="profile--text">
                 <h1 className="profile--name">Laura Smith</h1>
                 <h3 className="profile--job">Frontend Developer</h3>
