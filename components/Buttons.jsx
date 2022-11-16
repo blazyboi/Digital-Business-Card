@@ -15,7 +15,7 @@ export default function Buttons() {
             </button>
             <button type="button" className="buttons--linkedin">
                <div className="buttons--button">
-                    <a href="https://www.linkedin.com/">
+                    <a href="https://www.linkedin.com/in/jayviswisely">
                         <img src={linkedin}></img>
                         {/*LinkedIn*/}
                     </a>

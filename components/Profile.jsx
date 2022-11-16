@@ -8,7 +8,7 @@ export default function Profile() {
             <div className="profile--text">
                 <h1 className="profile--name">Jayvis Wisely</h1>
                 <h3 className="profile--job">Frontend Developer</h3>
-                <a href="https://blaze-business-card.netlify.app/">jayviswisely.com</a>
+                <a href="https://jayviswisely.github.io/index.html"><jayviswisely className="github io"></jayviswisely></a>
             </div>
         </div>
     )

@@ -8,16 +8,16 @@ export default function Socials() {
     return (
         <footer>
             {/*<h1>Icons goes here</h1>*/}
-            <a href="https://twitter.com/twitter">
+            <a href="https://twitter.com/notjaymaybe/">
                 <img src={twitter}></img>
             </a>
-            <a href="https://www.facebook.com/">
+            <a href="https://www.facebook.com/jayvis.wisely/">
                 <img src={facebook}></img>
             </a>
-            <a href="https://www.instagram.com/">
+            <a href="https://www.instagram.com/jayviswiselyy">
                 <img src={insta}></img>
             </a>
-            <a href="https://github.com/">
+            <a href="https://github.com/jayviswisely/">
                 <img src={github}></img>
             </a>
         </footer>
