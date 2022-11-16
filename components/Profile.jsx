@@ -6,9 +6,9 @@ export default function Profile() {
         <div className="profile">
             <img src={pfp} className="profile--img"></img>
             <div className="profile--text">
-                <h1 className="profile--name">Jayvis Wisely</h1>
-                <h3 className="profile--job">Frontend Developer</h3>
-                <a href="https://jayviswisely.github.io/index.html"><jayviswisely className="github io"></jayviswisely></a>
+                <h1 className>Jayvis Wisely</h1>
+                <h3 className>Frontend Developer</h3>
+                <a href="https://jayviswisely.github.io/index.html">jayviswise.github.io</a>
             </div>
         </div>
     )
