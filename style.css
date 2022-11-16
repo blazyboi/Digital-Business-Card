@@ -126,7 +126,7 @@ footer > h1 {
 }
 
 footer > a > img {
-    width: 25px;
-    padding-left: 10px;
-    padding-right: 10px;
+    height: 80%;
+    padding-left: 3px;
+    padding-right: 3px;
 }
