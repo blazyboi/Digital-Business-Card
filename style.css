@@ -9,15 +9,16 @@ body {
 
 .app--card {
     background-color: #1A1B21;
-    width: 50%;
+    max-width: 317px;
     margin: 0 auto;
-    border-radius: 0px 0px 10px 10px;
+    margin-top: 30px;
 }
 
 /* Profile Section*/
 
 .profile--img {
     width: 100%;
+    border-radius: 10px 10px 0 0;
 }
 
 .profile--text {
@@ -52,6 +53,13 @@ body {
     font-weight: 500;
 }
 
+.buttons--button {
+    width: 90%;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+}
+
 .buttons--email {
     background-color: #FFFFFF;
     width: 40%;
@@ -68,6 +76,12 @@ body {
     border-radius: 6px;
     margin: 0 auto;
     color: white;
+}
+
+.buttons--button > a > img {
+    width: 20px;
+    margin-right: 0;
+    margin: 0 auto;
 }
 
 /* Description Section */
@@ -95,11 +109,22 @@ body {
 footer {
     color: #918E9B;
     background-color: #161619;
-    padding-top: 2px;
-    padding-bottom: 2px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border-radius: 0px 0px 10px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
 }
 
 footer > h1 {
     font-size: 20px;
     text-align: center;
+}
+
+footer > a > img {
+    width: 25px;
+    padding-left: 5px;
+    padding-right: 5px;
 }
