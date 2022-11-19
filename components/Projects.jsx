@@ -22,7 +22,7 @@ export default function Projects() {
                     </a>
                 </li>
                 <li>
-                    <h1 className="projects--title">Web Technologies Facts</h1>
+                    <h1 className="projects--title">Web Technologies Facts - Under Development</h1>
                     <a href="https://facts-of-react.netlify.app">
                         <img className="projects--img" src={project3}></img>
                     </a>
@@ -34,7 +34,7 @@ export default function Projects() {
                         </a>
                 </li>
                 <li>
-                    <h1 className="projects--title">Aeimnestus</h1>
+                    <h1 className="projects--title">Aeimnestus - Beta Coming Soon</h1>
                         <a href="https://twitter.com/AeimnestusGame?t=-AHSO-k817vBqjxX-DGObQ&s=09">
                             <img className="projects--img" src={project5}></img>
                         </a> 
