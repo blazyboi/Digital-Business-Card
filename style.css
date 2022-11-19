@@ -107,6 +107,14 @@ body {
     color: #DCDCDC;
 }
 
+/* Projects Sections */
+
+.projects {
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 700;
+}
+
 /* Socials Sections */
 
 footer {
