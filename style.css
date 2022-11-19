@@ -118,6 +118,11 @@ body {
     font-weight: 500;
 }
 
+.projects > li::marker {
+    color: #F3BF99;
+    font-size: 16px;
+} 
+
 /* Socials Sections */
 
 footer {
