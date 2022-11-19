@@ -22,7 +22,7 @@ export default function Projects() {
                     <img className="projects--img" src={project3}></img>
                 </li>
                 <li>
-                    <h1 className="projects--title">Digital Business Card</h1>
+                    <h1 className="projects--title">Digital Business Card &#40;Current Site&#41;</h1>
                     <img className="projects--img" src={project4}></img>
                 </li>
                 <li>
