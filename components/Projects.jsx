@@ -5,19 +5,19 @@ export default function Projects() {
         <div className="projects">
             <ul>
                 <li>
-                    <h1>Portfolio Website</h1>
+                    <h1 className="projects--title">Portfolio Website</h1>
                 </li>
                 <li>
-                    <h1>SSEC Mini Arcade</h1>
+                    <h1 className="projects--title">SSEC Mini Arcade</h1>
                 </li>
                 <li>
-                    <h1>Web Technologies Facts</h1>
+                    <h1 className="projects--title">Web Technologies Facts</h1>
                 </li>
                 <li>
-                    <h1>Digital Business Card</h1>
+                    <h1 className="projects--title">Digital Business Card</h1>
                 </li>
                 <li>
-                    <h1>Aeimnestus</h1>
+                    <h1 className="projects--title">Aeimnestus</h1>
                 </li>
             </ul>
         </div>
