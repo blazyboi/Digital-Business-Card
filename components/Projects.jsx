@@ -11,15 +11,21 @@ export default function Projects() {
             <ul className="projects--list">
                 <li>
                     <h1 className="projects--title">Portfolio Website</h1>
-                    <img className="projects--img" src={project1}></img>
+                    <a href="https://jayviswisely.github.io">
+                        <img className="projects--img" src={project1}></img>
+                    </a>
                 </li>
                 <li>
                     <h1 className="projects--title">SSEC Mini Arcade</h1>
-                    <img className="projects--img" src={project2}></img>
+                    <a href="https://ssec-arcade.netlify.app">
+                        <img className="projects--img" src={project2}></img>
+                    </a>
                 </li>
                 <li>
                     <h1 className="projects--title">Web Technologies Facts</h1>
-                    <img className="projects--img" src={project3}></img>
+                    <a href="https://facts-of-react.netlify.app">
+                        <img className="projects--img" src={project3}></img>
+                    </a>
                 </li>
                 <li>
                     <h1 className="projects--title">Digital Business Card &#40;Current Site&#41;</h1>
@@ -29,7 +35,9 @@ export default function Projects() {
                 </li>
                 <li>
                     <h1 className="projects--title">Aeimnestus</h1>
-                    <img className="projects--img" src={project5}></img>
+                        <a href="https://twitter.com/AeimnestusGame?t=-AHSO-k817vBqjxX-DGObQ&s=09">
+                            <img className="projects--img" src={project5}></img>
+                        </a> 
                 </li>
             </ul>
         </div>
