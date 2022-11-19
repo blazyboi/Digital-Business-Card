@@ -23,7 +23,9 @@ export default function Projects() {
                 </li>
                 <li>
                     <h1 className="projects--title">Digital Business Card &#40;Current Site&#41;</h1>
-                    <img className="projects--img" src={project4}></img>
+                        <a href="https://jayviswisely-card.netlify.app/">
+                            <img className="projects--img" src={project4}></img>
+                        </a>
                 </li>
                 <li>
                     <h1 className="projects--title">Aeimnestus</h1>
